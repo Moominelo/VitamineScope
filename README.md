@@ -1,6 +1,7 @@
 # VitamineScope 🍊
 
-![Aperçu de VitamineScope](screenshot.png)
+<img width="1055" height="768" alt="{5524128F-6A6A-402C-9C99-A96D2915A2FC}" src="https://github.com/user-attachments/assets/53bba1df-05f6-4392-a683-5bf24c631c2f" />
+
 
 > **Explorez votre chimie intérieure.** Une application éducative premium pour comprendre les vitamines, analyser ses apports nutritionnels et apprendre grâce à l'IA.
 
